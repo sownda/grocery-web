@@ -1,0 +1,253 @@
+<html>
+<head>
+	<meta name="viewport" content="with=device-width, initial-scale=1.0">
+	<title>GROCERY WEBSITE</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+	    <div class="container">
+		<div class="navbar">
+		<div class="logo">
+				<img src="anchor3.png" width="125px"><br>	
+		</div>
+
+	     <nav>
+			<ul>
+				<li><a href="">HOME</a></li>
+				<li><a href="">ABOUT</a></li>
+				<li><a href="">CONTACT</a></li>
+			</ul>
+		</div>
+	</nav>
+
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+	<div class="title">
+		         <h1>WORLDS CHEAPEST GROCERY STORE</h1><br>
+
+	<center>     <h3>WE CARE FOR U! STAFE HOME AND SHOP ONLINE </h3>
+			     <i class="fas fa-heart" style='font-size:30px;color:maroon;'></i>
+	</center>
+					
+	</div>
+	
+	<div class="button">
+		<a href="visit us.html" class="btn">EXPLORE MORE</a>
+    
+    
+    <html>
+<body>
+<link rel="stylesheet" href="style.css">
+<div class="parallax">
+	<div class="page-title">ANCHOR EAT FRESH</div>
+</div>
+
+	
+
+<div class="menu" id="stick">
+	<div class="menu-ul">
+		
+		   <li><a href="grocery.html" class="a-menu">HOME</a></li>
+		   <li><a href="deals" class="a-menu">DEALS</a></li>
+		   <li><a href="vegetables" class="a-menu">VEGETABLES</a></li>
+		   <li><a href="fruits" 
+		   	class="a-menu">FRUITS</a></li>
+		   <li><a href="meat" class="a-menu">MEAT</a></li>
+		
+		</ul>
+
+
+<div class="search">
+		<form>
+              <input type="text" placeholder="search here" name="search" class="search-input"/>
+              <button type="submit"><i class="fa fa-search"></i></button>
+	    </form>
+    </div>
+
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<div class="symbol">
+	<ul>
+
+       <li><a href=""><i class="fas fa-shopping-cart" style='font-size:30px;color:black'></i></a></li>	
+       <li><a href=""><i class="fas fa-heart" style='font-size:30px;color:black'></i></a></li>
+       <li><a href=""><i class="fas fa-user-circle" style='font-size:30px;color:black'></i></a></li>
+   </ul>
+</div>
+
+<!--home page-->
+      <div class="containers">
+      	<a href="vegetables">
+      		<div class="categories">
+      			<img src="deal.png" class="item-image">
+      			<div class="image-title">VEGETABLES</div>
+      	      </div>
+      	</a>
+      	<a href="fruits">
+      		<div class="categories">
+      			<img src="berry.png" class="item-image">
+      			<div class="image-title">FRUITS</div>
+      	      </div>
+      	<a href="meat">
+      		<div class="categories">
+      			<img src="fish.png" class="item-image">
+      			<div class="image-title">MEAT & SEAFOOD</div>
+      	      </div>
+      	</a>
+      	<a href="deals">
+      		<div class="categories">
+      			<img src="tomato.png" class="item-image">
+      			<div class="image-title">DEALS</div>
+      	      </div>
+      	</a>		
+      	</div>
+      	<!--deal begins here-->
+      	<div class="deals-container" id="deals">
+      	<div class="parallax">
+      	<div class="title">DEALS</div>	
+      	</div>
+
+      	<div class="deal">
+      	save upto 20% on min-purchase of Rs.499 on vegetables<br>
+      	<button class="coupon-btn">ADD COUPON</button>
+      </div>
+
+      	<div class="deal">
+      	save upto 20% on min-purchase of Rs.599 on fruits<br>
+      	<button class="coupon-btn">ADD COUPON</button>
+      </div>
+
+      <div class="deal">
+      	save upto 20% on min-purchase of Rs.699 on meat & seafood <br>
+      	<button class="coupon-btn">ADD COUPON</button>
+      </div>
+      <!--deal ends here-->
+      <!--veg begins here-->
+      <div class="deals-container" id="vegetables">
+      	<div class="parallax">
+      		<div class="title">VEGETABLES</div>
+      	</div>
+      	div class="items">
+      	<div class="images">
+      	<img src="lady.png" class="item-image-size"/>
+     < 	</div>
+      	<div class="description">
+      	<b>organic ladys finger</b><br>
+      	<div class="="item-select">
+      	price:Rs.25/250grams
+      	</div>
+      	<label>Qty:</label>
+      	<select class="item-select">
+      	<option>250 grams</option>
+      	<option>500 grams</option>
+      	<option>750 grams</option>
+      	<option>1000 grams</option>	
+      </select><br/>
+      <button class="buynow-btn">BUY</button>
+
+      div class="items">
+      	<div class="images">
+      	<img src="pep.png" class="item-image-size"/>
+     < 	</div>
+      	<div class="description">
+      	<b>organic green bell pepper</b><br>
+      	<div class="="item-select">
+      	price:Rs.10/250grams
+      	</div>
+      	<label>Qty:</label>
+      	<select class="item-select">
+      	<option>250 grams</option>
+      	<option>500 grams</option>
+      	<option>750 grams</option>
+      	<option>1000 grams</option>	
+      </select><br/>
+      <button class="buynow-btn">BUY</button>
+
+      <div class="items">
+      	<div class="images">
+      	<img src="tomato.png" class="item-image-size"/>
+     	</div>
+      	<div class="description">
+      	<b>organic tomato</b><br>
+      	<div class="item-select">
+      	price:Rs.30/250grams
+      	</div>
+      	<label>Qty:</label>
+      	<select class="item-select">
+      	<option>250 grams</option>
+      	<option>500 grams</option>
+      	<option>750 grams</option>
+      	<option>1000 grams</option>	
+      </select><br/>
+      <button class="buynow-btn">BUY</button>
+
+      <div class="items">
+      	<div class="images">
+      	<img src="onion.png" class="item-image-size"/>
+      	</div>
+      	<div class="description">
+      	<b>onion</b><br>
+      	<div class="item-select">
+      	price:Rs.28/250grams
+      	</div>
+      	<label>Qty:</label>
+      	<select class="item-select">
+      	<option>250 grams</option>
+      	<option>500 grams</option>
+      	<option>750 grams</option>
+      	<option>1000 grams</option>	
+      </select><br/>
+      <button class="buynow-btn">BUY</button>
+
+      <div class="items">
+      	<div class="images">
+      	<img src="car.png" class="item-image-size"/>
+      	</div>
+      	<div class="description">
+      	<b>organic carrots</b><br>
+      	<div class="item-select">
+      	price:Rs.25/250grams
+      	</div>
+      	<label>Qty:</label>
+      	<select class="item-select">
+      	<option>250 grams</option>
+      	<option>500 grams</option>
+      	<option>750 grams</option>
+      	<option>1000 grams</option>	
+      </select><br/>
+      <button class="buynow-btn">BUY</button>
+
+      <div class="items">
+      	<div class="images">
+      	<img src="spinach.png" class="item-image-size"/>
+      	</div>
+      	<div class="description">
+      	<b>organic greens</b><br>
+      	<div class="item-select">
+      	price:Rs.25/250grams
+      	</div>
+      	<label>Qty:</label>
+      	<select class="item-select">
+      	<option>250 grams</option>
+      	<option>500 grams</option>
+      	<option>750 grams</option>
+      	<option>1000 grams</option>	
+      </select><br/>
+      <button class="buynow-btn">BUY</button>
+      		      <!--home page end-->
+
+
+
+
+
+
+
+
+	
+
+
+
+    
+						
+
+							
